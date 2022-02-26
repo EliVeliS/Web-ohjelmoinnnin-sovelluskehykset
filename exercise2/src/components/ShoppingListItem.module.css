@@ -1,0 +1,20 @@
+.item
+{
+  background-color: rgb(255, 0, 43);
+  margin-bottom: 5px;      
+}
+
+.item > div
+{
+  margin-left: 4px;
+}
+
+.flex
+{
+  display: flex;
+}
+
+.itemQtyUnit
+{
+  width: 30px;    
+}
